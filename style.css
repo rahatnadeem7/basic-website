@@ -1,0 +1,19 @@
+@import "https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css";
+
+
+
+a{
+    color:rgb(131, 152, 234);
+}
+
+h10{
+    color:rgb(131, 152, 234);
+}
+
+ab{
+    color:rgb(131, 152, 234);
+}
+
+html {
+    scroll-behavior: smooth;
+  }
