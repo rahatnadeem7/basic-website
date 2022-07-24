@@ -21,19 +21,16 @@ html {
 #bar-icon {
     margin: auto 0;
     display: none;
-    cursor: pointer;
-    
+    cursor: pointer; 
   }
 
 #bar-icon div {
     width: 35px;
-    height: 3px;
+    height: 2px;
     background-color: rgb(131, 152, 234);
     margin: 4px 0;
     transition: 0.4s;
-    position:sticky
-    
-    
+    position:sticky;   
   }
 
   .open .bar1 {
@@ -61,7 +58,7 @@ html {
 .mobile-menu {
     display: none;
     position: absolute;
-    top: 50px;
+    top: 115px;
     left: 0;
     height: calc(100vh - 50px);
     width: 100%;
